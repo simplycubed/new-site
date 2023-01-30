@@ -1,0 +1,11 @@
+package.json
+package-lock.json
+
+**/node_modules/**
+
+# generated files
+README.md
+**/functions/lib/**
+**/lib/**
+**/dist/**
+coverage

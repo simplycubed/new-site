@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "web": "simplycubed-e2ee",
+    "dashboard": "simplycubed-e2ee-app"
+  },
+  "targets": {
+    "simplycubed-e2ee": {
+      "hosting": {
+        "web": [
+          "simplycubed-e2ee"
+        ]
+      }
+    },
+    "simplycubed-e2ee-app": {
+      "hosting": {
+        "dashboard": [
+          "simplycubed-e2ee-app"
+        ]
+      }
+    }
+  }
+}
