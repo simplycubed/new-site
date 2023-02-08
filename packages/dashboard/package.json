@@ -75,7 +75,7 @@
     "@fullcalendar/daygrid": "^6.0.3",
     "@fullcalendar/interaction": "^6.0.3",
     "@fullcalendar/list": "^5.11.3",
-    "@fullcalendar/timegrid": "^5.11.3",
+    "@fullcalendar/timegrid": "^6.1.4",
     "@fullcalendar/vue3": "^5.11.2",
     "@iconify-json/mdi": "^1.1.33",
     "@iconify/tools": "^2.1.0",
